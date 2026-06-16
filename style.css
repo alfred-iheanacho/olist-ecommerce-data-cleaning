@@ -1,0 +1,33 @@
+body{
+font-family: Arial, sans-serif;
+max-width: 1100px;
+margin: auto;
+padding: 30px;
+line-height: 1.8;
+background:#f4f6f9;
+color:#333;
+}
+
+h1,h2{
+color:#0A192F;
+}
+
+.custom-btn{
+display:inline-block;
+padding:10px 20px;
+background:#0A192F;
+color:white;
+text-decoration:none;
+border-radius:5px;
+}
+
+.custom-btn:hover
+
+img{
+width:100%;
+max-width:900px;
+display:block;
+margin:20px auto;
+border-radius:8px;
+box-shadow:0 2px 10px rgba(0,0,0,.15);
+}
